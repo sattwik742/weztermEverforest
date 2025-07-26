@@ -16,11 +16,7 @@ This repository contains a customized setup of [WezTerm](https://wezfurlong.org/
 
 ## 📁 Directory Structure
 
-.config/␣
-└── wezterm/␣
-├── wezterm.lua # Main configuration file␣
-└── Images/␣
-└── ArchLogo.jpg # Background image for terminal
+
 
 ---
 
