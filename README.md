@@ -41,4 +41,3 @@ mkdir -p ~/.config/wezterm/Images
 cp wezterm.lua ~/.config/wezterm/
 cp Images/ArchLogo.jpg ~/.config/wezterm/Images/
 ```
-
