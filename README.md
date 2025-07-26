@@ -16,10 +16,10 @@ This repository contains a customized setup of [WezTerm](https://wezfurlong.org/
 
 ## 📁 Directory Structure
 
-.config/
-└── wezterm/
-├── wezterm.lua # Main configuration file
-└── Images/
+.config/␣
+└── wezterm/␣
+├── wezterm.lua # Main configuration file␣
+└── Images/␣
 └── ArchLogo.jpg # Background image for terminal
 
 ---
@@ -35,6 +35,10 @@ https://wezterm.org/install/linux.html
 ## 📂 Clone and Set Up Config
 
 ```
-git clone https://github.com/<your-username>/wezterm-everforest-setup.git
-cd wezterm-everforest-setup
+git clone https://github.com/sattwik742/weztermEverforest.git
+cd weztermEverforest
+mkdir -p ~/.config/wezterm/Images
+cp wezterm.lua ~/.config/wezterm/
+cp Images/ArchLogo.jpg ~/.config/wezterm/Images/
 ```
+
