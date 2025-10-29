@@ -14,12 +14,6 @@ This repository contains a customized setup of [WezTerm](https://wezfurlong.org/
 
 ---
 
-## 📁 Directory Structure
-
-
-
----
-
 ## ⚙️ Installation Guide
 
 Refer to the WezTerm Installation Guide for official instructions
